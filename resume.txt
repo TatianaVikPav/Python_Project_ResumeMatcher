@@ -1,0 +1,52 @@
+Tanya
++2245291495 | tanya@abc.com | 
+
+Professional Summary:
+Experienced Python Full Stack Developer with 4+ years of expertise in developing web applications. Proficient in Python (Django, Flask), JavaScript (React), and database management (PostgreSQL, MongoDB). Skilled in both back-end and front-end technologies, with a focus on delivering efficient, scalable solutions. Passionate about clean code, performance optimization, and collaborative development.
+
+Technical Skills:
+Back-End: Python, Django, Flask, FastAPI
+
+Front-End: React, HTML5, CSS3, JavaScript
+
+Databases: PostgreSQL, MongoDB, Redis
+
+Tools: Git, Docker, Kubernetes, AWS
+
+Testing: PyTest, Jest
+
+DevOps: CI/CD, Jenkins, AWS
+
+Experience:
+Full Stack Developer
+XYZ Tech Solutions – [Location] | June 2022 – Present
+
+Developed scalable web apps with Django (back-end) and React (front-end).
+
+Built and maintained RESTful APIs, optimized database queries.
+
+Integrated third-party services (e.g., Stripe) and implemented CI/CD pipelines.
+
+Python Developer
+ABC Innovations – [Location] | March 2020 – May 2022
+
+Developed back-end services with Django and Flask, integrated WebSockets for real-time features.
+
+Worked with PostgreSQL and MongoDB for data management, optimized performance.
+
+Junior Web Developer
+Tech Horizons – [Location] | July 2018 – February 2020
+
+Assisted in developing web apps using Flask, JavaScript, and jQuery.
+
+Worked on API development and maintained code quality through Git.
+
+Education:
+B.S. in Computer Science
+University of [Your University] | Graduated: May 2018
+
+Certifications:
+AWS Certified Solutions Architect
+
+Python for Data Science and Machine Learning
+

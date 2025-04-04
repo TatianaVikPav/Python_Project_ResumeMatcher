@@ -1,0 +1,20 @@
+
+RESUME-JOB MATCH ANALYSIS
+-------------------------
+Match Score: 13/100
+
+TOP MATCHING KEYWORDS:
+backend, developer, frontend, full, python, solutions, stack
+
+IMPORTANT MISSING KEYWORDS:
+code, development, experience, frameworks, like, tools, using, work
+
+SUGGESTIONS:
+1. Add these terms to your resume: code, development, experience, frameworks, like
+2. Highlight these skills: backend, developer, frontend, full, python
+3. Use numbers/metrics to quantify achievements
+
+Note: This analysis is based on keyword matching. For best results:
+- Tailor your resume to each job application
+- Mirror the language used in the job description
+- Include specific examples of your accomplishments

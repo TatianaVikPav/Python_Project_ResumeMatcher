@@ -1,0 +1,85 @@
+Job Title: Python Full Stack Developer
+
+Job Location: Chicago
+Job Type: Full-Time/Contract
+Department: Python
+Reports To: Tanya and Luba
+
+Job Overview: We are seeking a highly skilled and motivated Python Full Stack Developer to join our dynamic team. As a Full Stack Developer, you will be responsible for both the front-end and back-end development of web applications, ensuring a seamless and robust user experience. This is an exciting opportunity to work on a range of complex projects and contribute to the growth of our technology solutions.
+
+Key Responsibilities:
+
+Backend Development: Design, develop, and maintain scalable Python-based back-end services and APIs, using frameworks like Django or Flask.
+
+Frontend Development: Collaborate with front-end developers to build responsive, user-friendly, and visually appealing user interfaces with technologies like HTML, CSS, JavaScript, and frameworks like React or Angular.
+
+Database Management: Design, implement, and optimize database solutions using SQL or NoSQL databases (e.g., PostgreSQL, MongoDB).
+
+Collaboration: Work closely with other developers, designers, product managers, and stakeholders to define and implement new features.
+
+Testing & Debugging: Write unit tests and conduct thorough testing to ensure the highest level of code quality and reliability.
+
+Code Review & Best Practices: Participate in code reviews and follow best practices for writing clean, maintainable, and efficient code.
+
+Version Control: Utilize Git for version control, and collaborate effectively using GitHub, GitLab, or Bitbucket.
+
+Deployment & DevOps: Assist with deployment to staging and production environments and collaborate with DevOps engineers to ensure continuous integration and deployment (CI/CD).
+
+Troubleshooting & Optimization: Identify performance bottlenecks and implement solutions to optimize the system’s speed and efficiency.
+
+Required Skills & Qualifications:
+
+Proficiency in Python with experience in frameworks like Django, Flask, or FastAPI.
+
+Solid experience with front-end technologies such as HTML5, CSS3, JavaScript, and front-end frameworks like React, Angular, or Vue.js.
+
+Strong understanding of database systems, both relational (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis).
+
+Experience with RESTful APIs and integrating third-party services.
+
+Familiarity with version control tools like Git, GitHub, or GitLab.
+
+Knowledge of cloud platforms (AWS, Azure, Google Cloud) and containerization (Docker, Kubernetes) is a plus.
+
+Strong understanding of web development best practices, security, and performance optimization.
+
+Ability to write unit and integration tests, and work with testing tools and frameworks (e.g., PyTest, Selenium, Jest).
+
+Strong problem-solving skills, and ability to work in a fast-paced, collaborative environment.
+
+Excellent communication skills, both written and verbal.
+
+Preferred Qualifications:
+
+Experience with DevOps tools and CI/CD pipelines.
+
+Familiarity with Agile methodologies and tools like Jira or Trello.
+
+Experience with GraphQL and WebSockets.
+
+Understanding of container orchestration tools like Kubernetes.
+
+Knowledge of frontend build tools such as Webpack, Babel, or npm.
+
+Education and Experience:
+
+Bachelor’s degree in Computer Science, Engineering, or related field (or equivalent experience).
+
+3+ years of experience as a Full Stack Developer, with a focus on Python and web development.
+
+Benefits:
+
+Competitive salary and performance bonuses.
+
+Health insurance and wellness benefits.
+
+Opportunities for professional development and growth.
+
+Flexible work hours and remote work options.
+
+Collaborative and inclusive work culture.
+
+If you are passionate about coding and building high-quality web applications, we would love to have you on our team. Apply now to be a part of an innovative and growing company!
+
+How to Apply:
+Please submit your resume, along with a cover letter, highlighting your relevant experience and why you are a great fit for this position to abc@gmail.com.
