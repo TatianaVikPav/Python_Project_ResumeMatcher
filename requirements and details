@@ -1,0 +1,11 @@
+Prepare Files:
+Create two text files in the same folder:
+job.txt (job description)
+resume.txt (your resume).
+
+Run the Program
+
+Run the Python script using the command: python project_python.py
+
+
+Results: The program will analyze your files and generate a report. Results will be saved in analysis_results.txt.
